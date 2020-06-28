@@ -1,0 +1,30 @@
+Topic
+
+Introduction
+Linux Fundamentals
+Introduction to DevOps
+Git
+GitHub
+Advanced Git Commands
+Doubt Clearing
+Jenkins
+Maven
+Continuous Integration
+Doubt Clearing
+Selenium
+CI + Selenium
+Docker
+Doubt Clearing
+Docker Swarm
+Kubernetes
+Nagios
+Ansible
+Doubt Clearing
+Terraform
+
+http://courseware.cutm.ac.in/courses/domain-cloud-domain/
+
+168hr-Devops+solution architec
+72
+180
+20
